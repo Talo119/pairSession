@@ -1,0 +1,11 @@
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.exe
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.deps.json
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.runtimeconfig.json
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.runtimeconfig.dev.json
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.dll
+D:\aa_pairSession\pairsession\pairsession.app\bin\Debug\netcoreapp3.1\pairsession.app.pdb
+D:\aa_pairSession\pairsession\pairsession.app\obj\Debug\netcoreapp3.1\pairsession.app.csprojAssemblyReference.cache
+D:\aa_pairSession\pairsession\pairsession.app\obj\Debug\netcoreapp3.1\pairsession.app.AssemblyInfoInputs.cache
+D:\aa_pairSession\pairsession\pairsession.app\obj\Debug\netcoreapp3.1\pairsession.app.AssemblyInfo.cs
+D:\aa_pairSession\pairsession\pairsession.app\obj\Debug\netcoreapp3.1\pairsession.app.dll
+D:\aa_pairSession\pairsession\pairsession.app\obj\Debug\netcoreapp3.1\pairsession.app.pdb
